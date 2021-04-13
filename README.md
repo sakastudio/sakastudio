@@ -1,4 +1,11 @@
-### Hi there 👋
+## Steamでゲーム作ったり売ったりしてる人です
+## I'm a person who makes and sells games on Steam.
+https://store.steampowered.com/curator/38927102
+
+## Twitter
+https://twitter.com/sakastudio_
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sakastudio)
 
 <!--
 **sakastudio/sakastudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
