@@ -5,7 +5,8 @@ https://store.steampowered.com/curator/38927102
 ## Twitter
 https://twitter.com/sakastudio_
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sakastudio)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sakastudio&show_icons=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sakastudio)
 
 <!--
 **sakastudio/sakastudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
