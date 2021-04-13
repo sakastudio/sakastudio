@@ -1,6 +1,5 @@
-## Steamでゲーム作ったり売ったりしてる人です
-https://store.steampowered.com/curator/38927102
-
+## Link
+- [Steam](https://store.steampowered.com/curator/38927102)
 - [Twitter](https://twitter.com/sakastudio_)
 - [Youtube](https://www.youtube.com/channel/UCc7Dqe2967Vl7DtKNv0QshA)
 
