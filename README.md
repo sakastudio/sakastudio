@@ -10,9 +10,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakastudio" />
 </a>
 
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sakastudio)
-
 <!--
 **sakastudio/sakastudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
