@@ -20,3 +20,6 @@
     <img height="25" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fsakastudio?style=flat" />
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakastudio
+)](https://github.com/anuraghazra/github-readme-stats)
