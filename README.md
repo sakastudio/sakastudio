@@ -21,5 +21,4 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakastudio
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakastudio&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
