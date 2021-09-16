@@ -21,7 +21,16 @@
   </a>
 </p>
 
-### A passionate game developer from Japan 
+### A passionate game developer from Japan
+
+🔭 I’m currently working on [Industrial games](https://github.com/sakastudio/industrialization)
+
+🌱  I’m currently learning Go, DL, UE4
+
+📫  How to reach me: sakastudio100@gmail.com or [@sakastudio](https://twitter.com/sakastudio_)
+
+👨‍💻  Read more about my projects at 
+
 
 # 🛠️  Languages and Tools
 <p align="left">
