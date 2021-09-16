@@ -51,6 +51,13 @@ We are developing a game that is being produced by [Mr.Kenki](https://twitter.co
 
 ## Factory games
 
+I am developing factory game like Factorio or Satisfactory.
+The client is not developed. This image is concept art.
+
+  <a href="https://camp-fire.jp/projects/view/421688" target="_blank">
+    <img height=300 src="img/factory.jpeg"/>
+  </a>
+
 ## Minecraft mod and plugin
 
 ### [and more](https://github.com/sakastudio/sakastudio/blob/main/Activities.md) 
