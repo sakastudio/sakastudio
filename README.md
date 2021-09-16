@@ -8,8 +8,8 @@
   <a href="https://github.com/sakastudio/sakastudio/">
     <img src="https://komarev.com/ghpvc/?username=sakastudio" alt="sakastudio" />
   </a>
-  <a href="http://twitter.com/sakastudio">
-    <img height="20" src="https://img.shields.io/twitter/follow/sakastudio?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/sakastudio_">
+    <img height="20" src="https://img.shields.io/twitter/follow/sakastudio_?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/sakastudio">
     <img height="20" src="https://img.shields.io/github/followers/sakastudio?label=follow&logo=github&style=flat" />
