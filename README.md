@@ -34,8 +34,20 @@
 # 🚀 Activities
 
 ## FPS game "QUICAL"
+I developed this game all by myself in a year and a half.
+I released this game at February 23, 2021.
+
+  <a href="https://store.steampowered.com/app/1216600/QUICAL/">
+    <img height=150 src="img/quical.jpeg"/>
+  </a>
 
 ## FPS game "ProjectF"
+We are developing a game that is being produced by [Mr.Kenki](https://twitter.com/T_kenki).
+
+  <a href="https://camp-fire.jp/projects/view/421688">
+    <img height=300 src="img/projectf.jpeg"/>
+  </a>
+
 
 ## Factory games
 
