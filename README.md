@@ -59,6 +59,7 @@ The client is not developed. This image is concept art.
   </a>
 
 ## Minecraft mod and plugin
+I develop Minecraft mod and plugin used for Youtubers movie.
 
 ### [and more](https://github.com/sakastudio/sakastudio/blob/main/Activities.md) 
 
