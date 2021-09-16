@@ -21,25 +21,8 @@
   </a>
 </p>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakastudio&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sakastudio&theme=onedark&show_icons=ture" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sakastudio&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakastudio&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakastudio&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakastudio&theme=nord_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakastudio&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakastudio&theme=nord_dark)
-
-
-
-  <h3 align="left">Languages and Tools:</h3>
-    <p align="left">
+# 🚀 Languages and Tools
+<p align="left">
         <a href="https://www.w3schools.com/cs/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
         </a>
@@ -65,3 +48,25 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
         </a>
     </p>
+
+
+# 📊 Stats
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakastudio&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sakastudio&theme=onedark&show_icons=ture" />
+</p>
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sakastudio&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakastudio&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakastudio&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakastudio&theme=nord_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakastudio&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakastudio&theme=nord_dark)
+
+
