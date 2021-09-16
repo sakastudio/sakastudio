@@ -26,9 +26,14 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sakastudio&theme=onedark&show_icons=ture" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sakastudio&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakastudio&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakastudio&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakastudio&theme=nord_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakastudio&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakastudio&theme=nord_dark)
+
+
