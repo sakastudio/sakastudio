@@ -61,6 +61,9 @@ The client is not developed. This image is concept art.
 ## Minecraft mod and plugin
 I develop Minecraft mod and plugin used for Youtubers movie.
 
+[https://github.com/TeamKun/NicoChat](https://github.com/TeamKun/NicoChat)<br>
+[https://github.com/TeamKun/DOMINATORmod](https://github.com/TeamKun/DOMINATORmod)
+
 ### [and more](https://github.com/sakastudio/sakastudio/blob/main/Activities.md) 
 
 
