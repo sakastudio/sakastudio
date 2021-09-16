@@ -1,22 +1,22 @@
 # 👋 Hi! I'm sakastudio
 
 <p align="left"> 
-  <a href="http://twitter.com/sakastudio_">
+  <a href="http://twitter.com/sakastudio_" target="_blank">
     <img height="25" src="https://img.shields.io/twitter/follow/sakastudio_?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://store.steampowered.com/curator/38927102">
+  <a href="https://store.steampowered.com/curator/38927102" target="_blank">
     <img height="25" src="https://img.shields.io/badge/Released-4 games-blue?logo=steam&style=flat" />
   </a>
-  <a href="https://github.com/sakastudio">
+  <a href="https://github.com/sakastudio" target="_blank">
     <img height="25" src="https://img.shields.io/github/followers/sakastudio?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.youtube.com/channel/UCc7Dqe2967Vl7DtKNv0QshA">
+  <a href="https://www.youtube.com/channel/UCc7Dqe2967Vl7DtKNv0QshA" target="_blank">
     <img height="25" src="https://img.shields.io/youtube/channel/subscribers/UCc7Dqe2967Vl7DtKNv0QshA?logo=youtube&style=flat" />
   </a>
-  <a href="http://qiita.com/sakastudio_">
+  <a href="http://qiita.com/sakastudio_" target="_blank">
     <img height="25" src="https://qiita-badge.apiapi.app/s/sakastudio_/posts.svg"/>
   </a>
-  <a href="https://atcoder.jp/users/sakastudio">
+  <a href="https://atcoder.jp/users/sakastudio" target="_blank">
     <img height="25" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fsakastudio?style=flat" />
   </a>
 </p>
@@ -37,14 +37,14 @@
 I developed this game all by myself in a year and a half.
 I released this game at February 23, 2021.
 
-  <a href="https://store.steampowered.com/app/1216600/QUICAL/">
+  <a href="https://store.steampowered.com/app/1216600/QUICAL/" target="_blank">
     <img height=150 src="img/quical.jpeg"/>
   </a>
 
 ## FPS game "ProjectF"
 We are developing a game that is being produced by [Mr.Kenki](https://twitter.com/T_kenki).
 
-  <a href="https://camp-fire.jp/projects/view/421688">
+  <a href="https://camp-fire.jp/projects/view/421688" target="_blank">
     <img height=300 src="img/projectf.jpeg"/>
   </a>
 
