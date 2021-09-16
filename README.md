@@ -29,9 +29,20 @@
 
 📫  How to reach me: sakastudio100@gmail.com or [@sakastudio_](https://twitter.com/sakastudio_)
 
-👨‍💻  Read more about my projects at [Activities.mb](https://github.com/sakastudio/sakastudio/blob/main/Activities.md) 
+👨‍💻  Read more about my projects at [Activities.md](https://github.com/sakastudio/sakastudio/blob/main/Activities.md) 
 
 # 🚀 Activities
+
+## FPS game "QUICAL"
+
+## FPS game "ProjectF"
+
+## Factory games
+
+## Minecraft mod and plugin
+
+### [and more](https://github.com/sakastudio/sakastudio/blob/main/Activities.md) 
+
 
 # 🛠️  Languages and Tools
 <p align="left">
