@@ -31,6 +31,7 @@
 
 👨‍💻  Read more about my projects at [Activities.mb](https://github.com/sakastudio/sakastudio/blob/main/Activities.md) 
 
+# 🚀 Activities
 
 # 🛠️  Languages and Tools
 <p align="left">
