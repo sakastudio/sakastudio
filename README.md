@@ -3,21 +3,21 @@
 - [Twitter](https://twitter.com/sakastudio_)
 - [Youtube](https://www.youtube.com/channel/UCc7Dqe2967Vl7DtKNv0QshA)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sakastudio&count_private=true&show_icons=true" />
-</a>
 
-<!--
-**sakastudio/sakastudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+  <a href="https://github.com/sakastudio/sakastudio/">
+    <img src="https://komarev.com/ghpvc/?username=sakastudio" alt="sakastudio" />
+  </a>
+  <a href="http://twitter.com/sakastudio">
+    <img height="20" src="https://img.shields.io/twitter/follow/sakastudio?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/sakastudio">
+    <img height="20" src="https://img.shields.io/github/followers/sakastudio?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/sakastudio_">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/sakastudio_/posts.svg" />
+  </a>
+  <//qiita.com/sakastudio_">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/sakastudio_/contributions.svg" />
+  </a>
+</p>
