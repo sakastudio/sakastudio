@@ -21,6 +21,8 @@
   </a>
 </p>
 
+### A passionate game developer from Japan 
+
 # 🛠️  Languages and Tools
 <p align="left">
         <a href="https://www.w3schools.com/cs/" target="_blank">
