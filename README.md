@@ -23,13 +23,13 @@
 
 ### A passionate game developer from Japan
 
-🔭 I’m currently working on [Industrial games](https://github.com/sakastudio/industrialization)
+🔭 I’m currently working on [factory games](https://github.com/sakastudio/industrialization)
 
 🌱  I’m currently learning Go, DL, UE4
 
 📫  How to reach me: sakastudio100@gmail.com or [@sakastudio_](https://twitter.com/sakastudio_)
 
-👨‍💻  Read more about my projects at 
+👨‍💻  Read more about my projects at [Activities.mb](https://github.com/sakastudio/sakastudio/blob/main/Activities.md) 
 
 
 # 🛠️  Languages and Tools
