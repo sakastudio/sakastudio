@@ -27,7 +27,7 @@
 
 🌱  I’m currently learning Go, DL, UE4
 
-📫  How to reach me: sakastudio100@gmail.com or [@sakastudio](https://twitter.com/sakastudio_)
+📫  How to reach me: sakastudio100@gmail.com or [@sakastudio_](https://twitter.com/sakastudio_)
 
 👨‍💻  Read more about my projects at 
 
