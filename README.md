@@ -101,6 +101,10 @@ I develop Minecraft mod and plugin used for Youtubers movie.
 
 # 📊 Stats
 
+<p align="left"> 
+  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=sakastudio&theme=onedark&show_icons=ture" />
+</p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=sakastudio&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -112,9 +116,5 @@ I develop Minecraft mod and plugin used for Youtubers movie.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakastudio&theme=nord_dark)
 
 
-<p align="left"> 
-  <img alt="Top Langs" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakastudio&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=sakastudio&theme=onedark&show_icons=ture" />
-</p>
 
 
