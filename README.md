@@ -103,7 +103,7 @@ I develop Minecraft mod and plugin used for Youtubers movie.
 
 <p align="left"> 
   <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=sakastudio&theme=onedark&show_icons=ture" />
-  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakastudio&layout=compact&cache_seconds=1800&theme=onedark" />
+  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakastudio&layout=compact&cache_seconds=1800&theme=onedark&hide=ShaderLab" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sakastudio&theme=onedark&column=7
