@@ -6,6 +6,8 @@
     - [moorestech](https://github.com/sakastudio/sakastudio/blob/main/Activities.md#moorestech)
     - [ProjectF](https://github.com/sakastudio/sakastudio/blob/main/Activities.md#ProjectF)
     - [QUICAL](https://github.com/sakastudio/sakastudio/blob/main/Activities.md#QUICAL)
+- コンテスト
+    
  
 
 
