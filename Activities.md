@@ -46,7 +46,7 @@
 期間 2019/8 〜 2021/2<br>
 技術 Unity C# photon<br>
 開発人数 1人<br>
-[ストアページ](https://store.steampowered.com/app/1216600/QUICAL/?l=japanese)
+ストアページ [https://store.steampowered.com/app/1216600/QUICAL](https://store.steampowered.com/app/1216600/QUICAL/?l=japanese)
 
 ![image](https://user-images.githubusercontent.com/55620461/134102950-8629efeb-8313-493e-8cbc-a143a9dd5f95.png)
 
