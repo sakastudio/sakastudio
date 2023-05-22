@@ -55,7 +55,7 @@ I am developing factory game like Factorio or Satisfactory.
 The client is not developed. This image is concept art.
 
   <a href="https://github.com/sakastudio/moorestech" target="_blank">
-    <img height=300 src="img/factory.jpeg"/>
+    <img height=300 src="img/FnXWpFPagAE7pTB.jpg"/>
   </a>
 
 ## Minecraft mod and plugin
